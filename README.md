@@ -2,7 +2,7 @@
 
 ## Overview
 
-The purpose of this report is to provide Maria an analysis of the School District's performance, with the exception of the ninth graders that attend Thomas High School due to alleged academic dishonesty. The school board advised Maria that the current data shows evidence of possible grade alterations; in order to uphold state-testing standards, it was advised to replaced both math and reading scores with the NaN value and proceed with the reporting. The analysis will include data before and after the adjustment to compare and contrast the results of the allegations.
+The purpose of this report is to provide an analysis of the School District's performance, with the exception of the ninth graders that attend Thomas High School due to alleged academic dishonesty. The school board advised that the current data shows evidence of possible grade alterations; in order to uphold state-testing standards, it was advised to replaced both math and reading scores with the NaN value and proceed with the reporting. The analysis will include data before and after the adjustment to compare and contrast the results of the allegations.
 
 ## School District Summary Analysis:
 
